@@ -1,3 +1,17 @@
+### 🖼️ Screenshots
+
+#### 📊 crime analysis
+![Dashboard](screenshots/crime_analysis.png)
+
+#### 🔍 geo hotspot location
+![Predictions](screenshots/geo_hotspot.png)
+
+#### 🧠 crime data fetcher
+![Interventions](screenshots/crime_data.png)
+
+
+
+
 # Advanced Crime Prediction and Intervention System
 
 A sophisticated crime analysis platform that goes beyond simple historical pattern analysis to incorporate dynamic contextual factors in real-time, creating a truly adaptive and forward-looking crime prevention system with actionable recommendations.
