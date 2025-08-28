@@ -35,7 +35,7 @@
 | **NLP**           | spaCy, NLTK, HuggingFace (optional RAG pipeline)   |
 | **Visualization** | Power BI, Plotly                                   |
 | **Scraping**      | BeautifulSoup, Requests, Selenium (for dynamic)    |
-| **Database**      | SQLite / CSV / Pandas DataFrames                   |
+| **Database**      |                Pandas DataFrames                   |
 | **Deployment**    | Flask (optional), Streamlit (if frontend used)     |
 
 ---
@@ -93,7 +93,7 @@ bash
 Copy
 Edit
 # Step 1: Clone the repo
-git clone https://github.com/thatvik/Crime-Watch.git
+git clone 
 
 # Step 2: Setup environment
 cd Crime-Watch
