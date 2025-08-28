@@ -114,5 +114,6 @@ Deploy as a public dashboard using Streamlit or Flask + Heroku
 Automate alerts for high-crime patterns
 
 🙋 Author
-Venkata Thatvik P
-📧 venkata.thatvik@gmail.com
+Venkata Thatvik P,Lalith Aditya Movva
+📧 venkata.thatvik@gmail.com and Lalithadi3973@gmail.com
+
