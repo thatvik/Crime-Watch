@@ -115,5 +115,5 @@ Automate alerts for high-crime patterns
 
 🙋 Author
 Venkata Thatvik P,Lalith Aditya Movva
-📧 venkata.thatvik@gmail.com and Lalithadi3973@gmail.com
+📧 venkata.thatvik@gmail.com and lalithadi3973@gmail.com
 
